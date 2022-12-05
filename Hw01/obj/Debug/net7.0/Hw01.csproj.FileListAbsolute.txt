@@ -1,0 +1,15 @@
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\bin\Debug\net7.0\Hw01.exe
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\bin\Debug\net7.0\Hw01.deps.json
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\bin\Debug\net7.0\Hw01.runtimeconfig.json
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\bin\Debug\net7.0\Hw01.dll
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\bin\Debug\net7.0\Hw01.pdb
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.csproj.AssemblyReference.cache
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.AssemblyInfoInputs.cache
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.AssemblyInfo.cs
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.csproj.CoreCompileInputs.cache
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.dll
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\refint\Hw01.dll
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.pdb
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\Hw01.genruntimeconfig.cache
+C:\Users\veren\OneDrive\Документы\HW1\Hw01\obj\Debug\net7.0\ref\Hw01.dll
